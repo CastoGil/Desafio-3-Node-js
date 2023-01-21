@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "pantalon ",
+      "description": "levis",
+      "price": 235,
+      "thumbnail": "http",
+      "code": "256fsa",
+      "stock": 5
+    },
+    {
+      "id": 2,
+      "title": "remera ",
+      "description": "nike",
+      "price": 235,
+      "thumbnail": "http",
+      "code": "25255",
+      "stock": 4
+    }
+  ]
+  
